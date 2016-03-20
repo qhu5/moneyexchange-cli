@@ -1,10 +1,10 @@
 {
   "name": "moneyexchange-cli",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "money exchange cli",
   "main": "index.js",
   "bin": {
-    "moneyexchange-cli": "index.js"
+    "moneyexchange-cli": "./bin/cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
