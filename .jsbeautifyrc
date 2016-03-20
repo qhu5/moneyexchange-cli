@@ -1,0 +1,14 @@
+{
+  "indent_size": 2,
+  "indent_char": " ",
+  "eol": "\n",
+  "indent_level": 0,
+  "indent_with_tabs": false,
+  "preserve_newlines": true,
+  "max_preserve_newlines": 3,
+  "jslint_happy": false,
+  "brace_style": "collapse",
+  "space_after_anon_function": false,
+  "space_before_conditional": true,
+  "end_with_newline": true
+}
