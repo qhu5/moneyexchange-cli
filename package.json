@@ -1,6 +1,6 @@
 {
   "name": "moneyexchange-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "money exchange cli",
   "main": "index.js",
   "bin": {
@@ -21,7 +21,10 @@
     "exchange",
     "cli"
   ],
-  "author": "qhu5",
+  "author": {
+    "name": "qhu5",
+    "email": "quentinhu5@gmail.com"
+  },
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/qhu5/moneyexchange-cli/issues"
